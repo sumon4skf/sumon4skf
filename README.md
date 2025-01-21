@@ -26,7 +26,6 @@ I am Md. Shafiqul Islam, currently working at Informatik Lab and PayToMe.co. I a
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumon4skf&layout=compact&theme=dark)
-arent)
 
 ## 📂 Projects
 
